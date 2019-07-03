@@ -1,4 +1,4 @@
-.PHONY: project clean bitstream open_gui
+.PHONY: project bitstream clean open_gui open_sdk
 
 PROJ_NAME=Game
 TOP_LVL=$(PROJ_NAME)_wrapper
